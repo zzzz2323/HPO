@@ -1,0 +1,77 @@
+FTT	failure to thrive
+HTN	hypertension
+DM	diabetes mellitus
+DM1	type 1 diabetes mellitus
+DM2	type 2 diabetes mellitus
+CAD	coronary artery disease
+CHF	congestive heart failure
+COPD	chronic obstructive pulmonary disease
+OSA	obstructive sleep apnea
+GERD	gastroesophageal reflux disease
+UTI	urinary tract infection
+URI	upper respiratory infection
+LRTI	lower respiratory tract infection
+SOB	shortness of breath
+DOE	dyspnea on exertion
+PNA	pneumonia
+CP	chest pain
+HA	headache
+N/V	nausea and vomiting
+N/V/D	nausea vomiting diarrhea
+ABD	abdomen
+AP	abdominal pain
+LBP	low back pain
+PP	postpartum
+EMG	electromyography
+EEG	electroencephalogram
+CNS	central nervous system
+PNS	peripheral nervous system
+MSK	musculoskeletal
+HEENT	head eyes ears nose throat
+DD	developmental delay
+GDD	global developmental delay
+ASD	autism spectrum disorder
+ID	intellectual disability
+CP	cerebral palsy
+ADHD	attention-deficit/hyperactivity disorder
+SZ	seizures
+GTC	generalized tonic-clonic seizure
+AED	antiepileptic drug
+TBI	traumatic brain injury
+MRI	magnetic resonance imaging
+CT	computed tomography
+LP	lumbar puncture
+NICU	neonatal intensive care unit
+PICU	pediatric intensive care unit
+SCN	special care nursery
+BW	birth weight
+GA	gestational age
+SBS	shaken baby syndrome
+ROP	retinopathy of prematurity
+Hx	history
+h/o	history of
+FHx	family history
+PHx	past medical history
+PMH	past medical history
+SHx	social history
+FH	family history
+Fx	fracture
+NKDA	no known drug allergies
+NKMA	no known medical allergies
+NKFA	no known food allergies
+ROS	review of systems
+WNL	within normal limits
+CTA	clear to auscultation
+RRR	regular rate and rhythm
+HR	heart rate
+BP	blood pressure
+O2sat	oxygen saturation
+IV	intravenous
+PO	by mouth
+IM	intramuscular
+PRN	as needed
+BID	twice a day
+TID	three times a day
+QID	four times a day
+qHS	at bedtime
+NAD	no acute distress
